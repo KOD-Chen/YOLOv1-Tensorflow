@@ -8,8 +8,8 @@ windows和ubuntu环境都可以<br><br>
 1、yolo1_tf.py：程序文件<br>
 2、boxes.txt：检测结果的类别和边界框坐标<br><br>
 ### 运行yolo1_tf.py即可得到效果图：<br>
-1、car.PNG：输入的待检测图片<br>
+1、car.PNG：输入的待检测图片<br><br>
 ![image](https://github.com/Cola-Chen/YOLOv1-Tensorflow/blob/master/car.PNG)<br>
-2、detected_image.jpg：检测结果可视化<br>
+2、detected_image.jpg：检测结果可视化<br><br>
 ![image](https://github.com/Cola-Chen/YOLOv1-Tensorflow/blob/master/detected_image.jpg)<br>
 
