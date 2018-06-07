@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # --------------------------------------
 # @Time    : 2018/5/12$ 17:49$
-# @Author  : 陈思成
+# @Author  : KOD Chen
 # @Email   : 821237536@qq.com
 # @File    : yolo1_tf$.py
 # Description :Yolo V1 by tensorflow。yolo1的预测过程。
