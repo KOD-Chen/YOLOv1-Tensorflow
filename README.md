@@ -6,7 +6,7 @@
 Python3 + Tensorflow1.5 + OpenCV-python3.3.1 + Numpy1.13<br>
 windows和ubuntu环境都可以<br><br>
 ## 准备工作：<br>
-请在[yolo1检测模型](https://pan.baidu.com/s/1mhE0WL6errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0&traceid=)下载训练好的模型YOLO_small.ckpt，并放到同一文件夹下<br><br>
+请在[yolo1检测模型](https://pan.baidu.com/s/1mhE0WL6?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0&traceid=)下载训练好的模型YOLO_small.ckpt，并放到同一文件夹下<br><br>
 ## 文件说明：<br>
 1、yolo1_tf.py：程序文件<br>
 2、boxes.txt：检测结果的类别和边界框坐标<br><br>
